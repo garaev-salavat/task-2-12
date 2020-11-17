@@ -1,0 +1,3 @@
+.black { background: #5a5a5a; }
+td { border: 1px solid; width: 5em; height: 5em; text-align: center; vertical-align: middle; }
+td { border-spacing: 0; border-collapse: collapse; }
